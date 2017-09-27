@@ -1,6 +1,5 @@
 require 'forwardable'
 require 'base64'
-require 'byebug'
 
 class Board
   extend Forwardable
